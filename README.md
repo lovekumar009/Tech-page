@@ -32,12 +32,16 @@ The contact screen offers a form for users to reach out with inquiries or suppor
 
 - **Frontend**: HTML, CSS, JavaScript, React
 
+## For Demo check on live
+- https://tech-page-sigma.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/lovekumar009/Tech-page.git
    ```
+2. Go to directory and run 'npm install' to install the dependencies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

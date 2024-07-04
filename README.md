@@ -36,7 +36,7 @@ The contact screen offers a form for users to reach out with inquiries or suppor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jugalrajj/Tech-Page.git
+   git clone https://github.com/lovekumar009/Tech-page.git
    ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
